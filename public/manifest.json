@@ -1,0 +1,21 @@
+{
+  "name": "GitHub Streak Card Generator",
+  "short_name": "Streak Card",
+  "description": "Create amazing animated GitHub streak cards",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#1a1b27",
+  "icons": [
+    {
+      "src": "/favicon.ico",
+      "sizes": "any",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}

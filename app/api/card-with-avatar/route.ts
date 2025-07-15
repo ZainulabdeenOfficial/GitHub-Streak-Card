@@ -191,10 +191,10 @@ function generateCardWithEmbeddedAvatar(data: any, theme: any, avatarBase64: str
     </circle>
     
     <!-- Streak Number -->
-    <text x="40" y="35" text-anchor="middle" fill="${theme.streakColor}" font-size="20" font-weight="bold" font-family="Arial, sans-serif">
+    <text x="40" y="40" text-anchor="middle" fill="${theme.streakColor}" font-size="20" font-weight="bold" font-family="Arial, sans-serif">
       ${currentStreak}
     </text>
-    <text x="40" y="50" text-anchor="middle" fill="${theme.textColor}" font-size="11" font-family="Arial, sans-serif">
+    <text x="40" y="55" text-anchor="middle" fill="${theme.textColor}" font-size="11" font-family="Arial, sans-serif">
       days
     </text>
     
